@@ -1,0 +1,29 @@
+# --- Unity ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+# ProjectSettings y Packages SÍ se versionan (no los ignores)
+
+# --- IDE / SO ---
+.vscode/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+.DS_Store
+Thumbs.db
+
+# --- Plastic SCM (Unity Version Control) ---
+.plastic/
+*.plastic.workspace
+*.plastic.selector
